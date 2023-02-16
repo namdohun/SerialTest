@@ -1,0 +1,14 @@
+C:\Users\plz\source\repos\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\plz\source\repos\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\MainWindow.g.cs
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\App.g.cs
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest_MarkupCompile.cache
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest_MarkupCompile.lref
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\MainWindow.baml
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.g.resources
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.cache
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.CoreCompileInputs.cache
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.AssemblyReference.cache

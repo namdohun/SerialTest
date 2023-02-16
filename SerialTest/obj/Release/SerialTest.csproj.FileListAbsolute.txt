@@ -1,0 +1,15 @@
+C:\Users\plz\source\repos\SerialTest\SerialTest\bin\Release\SerialTest.exe
+C:\Users\plz\source\repos\SerialTest\SerialTest\bin\Release\SerialTest.pdb
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest.csproj.AssemblyReference.cache
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\MainWindow.g.cs
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\App.g.cs
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest_MarkupCompile.cache
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest_MarkupCompile.lref
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\MainWindow.baml
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest.g.resources
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest.Properties.Resources.resources
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest.csproj.GenerateResource.cache
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest.csproj.CoreCompileInputs.cache
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest.exe
+C:\Users\plz\source\repos\SerialTest\SerialTest\obj\Release\SerialTest.pdb
+C:\Users\plz\source\repos\SerialTest\SerialTest\bin\Release\SerialTest.exe.config

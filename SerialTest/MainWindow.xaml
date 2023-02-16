@@ -1,0 +1,107 @@
+﻿<Window
+    x:Class="SerialTest.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:SerialTest"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="600"
+    Height="320"
+    mc:Ignorable="d">
+    <Grid>
+        <Label
+            Margin="20,20,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="COM 포트 설정" />
+        <ComboBox
+            x:Name="ComPortCombBox"
+            Width="216"
+            Height="34"
+            Margin="24,46,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" />
+        <Label
+            Margin="20,101,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="연결속도 설정"
+            RenderTransformOrigin="0.491,-0.326" />
+        <ComboBox
+            x:Name="BaudRateCombBox"
+            Width="216"
+            Height="34"
+            Margin="24,127,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" />
+        <Button
+            x:Name="SerialConnectBtn"
+            Width="100"
+            Height="32"
+            Margin="25,207,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="SerialConnectBtn_Click"
+            Content="연결" />
+        <Button
+            x:Name="SerialDisConnectBtn"
+            Width="100"
+            Height="32"
+            Margin="140,207,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="SerialDisConnectBtn_Click"
+            Content="연결종료" />
+        <Button
+            x:Name="TestPrintBtn"
+            Width="117"
+            Height="33"
+            Margin="292,47,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="TestPrintBtn_Click"
+            Content="테스트인쇄"
+            IsEnabled="False" />
+        <Button
+            x:Name="ReceiptPrintBtn"
+            Width="117"
+            Height="33"
+            Margin="292,100,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="ReceiptPrintBtn_Click"
+            Content="배달인쇄"
+            IsEnabled="False" />
+        <Button
+            x:Name="BundlePrintBtn"
+            Width="117"
+            Height="33"
+            Margin="292,153,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="BundlePrintBtn_Click"
+            Content="묶음배송인쇄"
+            IsEnabled="False" />
+        <Button
+            x:Name="WrapPrintBtn"
+            Width="117"
+            Height="33"
+            Margin="432,100,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="WrapPrintBtn_Click"
+            Content="포장인쇄"
+            IsEnabled="False" />
+        <Button
+            x:Name="BundleSinglePrintBtn"
+            Width="117"
+            Height="33"
+            Margin="432,153,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="BundleSinglePrintBtn_Click"
+            Content="묶음배송(매장용)"
+            IsEnabled="False" />
+    </Grid>
+</Window>
